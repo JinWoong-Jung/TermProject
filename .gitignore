@@ -2,6 +2,9 @@ data/train/
 data/valid/
 data/test
 
-runs/detect/
+runs/
 
 *.pt
+
+__pycache__/
+.DS_Store
