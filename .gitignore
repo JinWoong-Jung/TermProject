@@ -1,0 +1,7 @@
+data/train/
+data/valid/
+data/test
+
+runs/detect/
+
+*.pt
